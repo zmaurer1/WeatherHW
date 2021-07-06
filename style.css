@@ -1,0 +1,18 @@
+.layout {
+    padding: 1.2rem;
+}
+.card {
+    background-color: lightgrey;
+    margin-bottom: 1.2rem;
+}
+body{
+    background-color: rgb(161, 161, 167);
+}
+#formInputs{
+    background-color: rgb(9, 32, 231);
+    padding: 30px;
+    border-radius: 15px;
+}
+#formTitle{
+    font-size: 50px;
+}
